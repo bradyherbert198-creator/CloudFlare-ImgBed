@@ -194,7 +194,7 @@ Provides detailed deployment documentation, feature docs, development plans, upd
 
 # 5. Star History
 
-**If you like the project, please give a free star✨✨✨, thank you very much!**
+**If you like the project, please give a free star✨✨✨,  thank you very much!**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MarSeventh/CloudFlare-ImgBed,MarSeventh/Sanyue-ImgHub&type=Date)](https://star-history.com/#MarSeventh/CloudFlare-ImgBed&MarSeventh/Sanyue-ImgHub&Date)
 
